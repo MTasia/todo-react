@@ -2,7 +2,7 @@
   "name": "todo-react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://mtasia.github.io/todo-react",
+  "homepage": "http://MTasia.github.io/todo-react",
   "dependencies": {
     "@testing-library/jest-dom": "^5.12.0",
     "@testing-library/react": "^11.2.6",
